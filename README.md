@@ -8,7 +8,7 @@ For details see articles below:
 
 [Building Pluto The Robot, Part II: First Ride](https://mobidev.biz/blog/building-pluto-the-robot-part-ii-first-ride)
 
-[Building Pluto The Robot, Part III: Web Server](https://mobidev.biz/blog/building-pluto-the-robot-part-ii-first-ride)
+[Building Pluto The Robot, Part III: Web Server](https://mobidev.biz/blog/building-pluto-the-robot-part-iii-web-server)
 
 [Building Pluto The Robot, Part IV: Camera](https://mobidev.biz/blog/building-pluto-the-robot-part-iv-camera)
 
